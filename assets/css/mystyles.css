@@ -15,7 +15,7 @@
 
 .hero-content {
   position: relative;
-  top: 50px;
+  top: 100px;
   left: 50px;
   color: white;
   width: 400px;
@@ -24,7 +24,7 @@
 @media (max-width: 500px) {
   .hero-content {
     position: relative;
-    top: 100px;
+    top: 50px;
     left: 50px;
     color: white;
     width: 300px;
