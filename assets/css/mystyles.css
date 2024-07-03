@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: black;
+}
+
 .hero {
   background-image: url('../../assets/img/baggrund.jpeg');
   background-repeat: no-repeat;
