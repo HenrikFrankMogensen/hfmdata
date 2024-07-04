@@ -178,21 +178,21 @@ body {
 
 .kontakt-btn {
   background-color: rgb(0,71,255);
-  padding: 10px 20px 12px 20px;
+  padding: 5px 10px 6px 10px;
   border-color: white;
   font-size: 20px;
 }
 
 .kontakt-btn:hover {
   background-color: rgba(255, 255, 255);
-  padding: 10px 20px 12px 20px;
+  padding: 5px 10px 6px 10px;
   border-color: white;
   color: black;
 }
 
 .btn.btn-primary.kontakt-btn.white-button {
   background-color: rgba(0, 0, 0, 0);
-  padding: 10px 20px 12px 20px;
+  padding: 5px 10px 6px 10px;
   border-color: white;
   color: white;
 }
@@ -203,14 +203,14 @@ body {
 
 .submit-button {
   background-color: rgb(0,71,255);
-  padding: 10px 20px 12px 20px;
+  padding: 5px 10px 6px 10px;
   border-color: white;
   font-size: 20px;
 }
 
 .submit-button:hover {
   background-color: rgba(255, 255, 255);
-  padding: 10px 20px 12px 20px;
+  padding: 5px 10px 6px 10px;
   border-color: white;
   color: black;
 }
