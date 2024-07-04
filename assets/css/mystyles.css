@@ -215,3 +215,15 @@ body {
   color: black;
 }
 
+.link-gartner {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.link-elektriker {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
