@@ -233,3 +233,7 @@ body {
   font-weight: bold;
 }
 
+.kontakt-btn.height {
+  display: none;
+}
+
